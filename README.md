@@ -1,4 +1,4 @@
-# 🏡 House Price Prediction & K-Means Clustering (Regression & Unsupervised Learning)
+# 🏡 House Price Prediction (Supervised Learning)
 
 This repository details **Day 2 (Part 1)** of my Machine Learning journey, focusing on **Regression Analysis** and **Unsupervised Clustering**. Using the Housing dataset, various regression techniques were implemented to predict property prices, alongside K-Means clustering to uncover distinct real estate market segments.
 
@@ -67,3 +67,11 @@ Using the **Elbow Method** to identify the optimal number of clusters ($K$), $K=
 * **Linear Baseline Dominance:** The standard Linear Regression model outperformed ensemble tree-based approaches (Random Forest) on this feature set, achieving the highest explanatory power ($R^2 = 0.431$).
 * **Effective Feature Signal:** Derived ratios like `area_per_room` ($r = 0.381$) and `area` ($r = 0.618$) showed strong positive linear correlations with house values.
 * **Cluster Utility:** Unsupervised K-Means successfully separated property groups by size and price without label guidance, identifying distinct market segments.
+
+  ---
+
+## 📅 Roadmap / Next Steps
+
+- [x] **Day 1:** Data Preprocessing & Exploratory Data Analysis (EDA)
+- [ ] **Day 2:** Model Training & Comparative Evaluation (Classification, Regression & Neural Networks)
+- [ ] **Day 3:** Hyperparameter Tuning, Introduction to NLP, and Model Deployment
