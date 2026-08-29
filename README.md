@@ -1,4 +1,4 @@
-# 🏡 House Price Prediction (Supervised Learning)
+# 🏡 House Price Prediction & K-Means Clustering (Regression & Unsupervised Learning)
 
 This repository details **Day 2 (Part 1)** of my Machine Learning journey, focusing on **Regression Analysis** and **Unsupervised Clustering**. Using the Housing dataset, various regression techniques were implemented to predict property prices, alongside K-Means clustering to uncover distinct real estate market segments.
 
